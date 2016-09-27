@@ -1,4 +1,4 @@
 # 2dPlatformer
 2d platform game complete with ragdoll physics. Uses JBox2d physics engine and LWJGL.
 
-Currently in its beta-phase.
+Used tutorials from the user ElegantWhelp on youtube for some aspects of the project.
