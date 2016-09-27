@@ -1,4 +1,4 @@
 # 2dPlatformer
-2d platform game complete with ragdoll physics. Uses JBox2d physics engine and LWJGL.
+2d platform game complete with ragdoll physics. Uses the JBox2d, LWJGL, and JOML libraries.
 
-Used tutorials from the user ElegantWhelp on youtube for some aspects of the project.
+Uses tutorials from the user ElegantWhelp on youtube for some aspects of the project.
