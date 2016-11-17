@@ -1,4 +1,3 @@
-# Zombie Fortress
-2d platform game complete with ragdoll physics. Uses the JBox2d, LWJGL, and JOML libraries.
+# Zombie Fortress V2
 
-Uses tutorials from the user ElegantWhelp on youtube for some aspects of the project.
+Restarted previous project, using OpenGL graphics and the JBox2d physics.
